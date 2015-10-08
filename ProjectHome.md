@@ -1,0 +1,1 @@
+The aim is to provide not the original, but a bit modified functionality of Twitter social network for russian-speaking countries. The project is opensource so everyone can start his own social network.
